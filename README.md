@@ -1,1 +1,1 @@
-# tripchoice-legal
+# Promenade-legal
